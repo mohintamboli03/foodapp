@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/foddApp.git
+   git clone https://github.com/mohintamboli03/foodapp.git
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
    ```
 
-The app should now be running at `http://localhost:3000`.
+
 
 
 ### Environment Variables
@@ -92,6 +92,3 @@ Contributions are welcome! If you'd like to contribute to foddApp, follow these 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
