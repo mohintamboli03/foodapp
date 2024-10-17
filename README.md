@@ -92,3 +92,11 @@ Contributions are welcome! If you'd like to contribute to foddApp, follow these 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
+## Contact
+
+**Email:** mohintamboli3@gmail.com
+
+**Twitter:** [@MoinTamboli_3](https://twitter.com/MoinTamboli_3)
+
+
+Happy coding! 🚀
